@@ -19,5 +19,12 @@ body {
 
 .grid-item {
     padding: 20px;
-    width: 100px;
+
+}
+
+.grid-item img {
+    width: 10%;
+    height: auto;
+    object-fit: cover;
+    overflow: hidden;
 }
