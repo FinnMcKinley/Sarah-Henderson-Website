@@ -11,23 +11,6 @@ body {
     height:20%;
 }
 
-.logo .contactBtn {
-    position:absolute;
-    top:50%;
-    right:50%;
-    transform: translate(-10%,-10%);
-    background-color:#f3cbf7;
-    color:black;
-    font-size:80px;
-    padding: 12px 24px;
-    border:none;
-    cursor:pointer;
-}
-
-.logo .contactBtn:hover {
-    background-color:#cda5d1;
-}
-
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto auto auto;
