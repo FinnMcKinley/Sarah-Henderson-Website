@@ -12,7 +12,7 @@ body {
 }
 
 .logo .contactBtn {
-    position:relative;
+    position:absolute;
     top:100px;
     right:50px;
     transform: translate(-10%,-10%);
