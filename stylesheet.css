@@ -13,9 +13,9 @@ body {
 
 .logo .contactBtn {
     position:relative;
-    top:50px;
+    top:100px;
     right:50px;
-    transform: translate(10%,10%);
+    transform: translate(-10%,-10%);
     background-color:#f3cbf7;
     color:black;
     font-size:80px;
