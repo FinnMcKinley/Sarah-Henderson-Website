@@ -19,8 +19,8 @@ body {
 
 .contact_button {
     position: absolute;
-    top: 1000px;
-    left: 10px;
+    top: 3%;
+    left: 70%;
     height: 25%;
     width: auto;
 }
