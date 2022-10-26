@@ -29,11 +29,9 @@ body {
 }
 
 .footer_video {
-    position: relative;
-    width: 80%;
-    height: auto;
+    text-align: center;
+    margin-bottom: 10%;
 }
-
     
     /* Grid Styling */
 .grid-container {
