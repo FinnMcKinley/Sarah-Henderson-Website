@@ -28,6 +28,12 @@ body {
     width: auto;
 }
 
+.footer_video {
+    position: relative;
+    width: 80%;
+    height: auto;
+}
+
     
     /* Grid Styling */
 .grid-container {
