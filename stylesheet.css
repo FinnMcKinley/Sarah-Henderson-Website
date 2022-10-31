@@ -42,7 +42,7 @@ body {
 }
     
 .grid-item {
-    padding: 5%;    
+    padding: 5%;
 }
     
 .grid-item img {
@@ -69,6 +69,6 @@ body {
 
 .contact-text {
     max-width: 46%;
-    font-size: 1vw;
+    font-size: 0.8vw;
     padding: 2%;
 }
