@@ -57,7 +57,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: blue;
+    margin-bottom: 5%;
 }
 
 .contact-photo {
@@ -65,12 +65,10 @@ body {
     max-width: 46%;
     max-height: 92%;
     margin: 2%;
-    background-color: red;
 }
 
 .contact-text {
     max-width: 46%;
     font-size: 1vw;
     padding: 2%;
-    background-color: yellow;
 }
