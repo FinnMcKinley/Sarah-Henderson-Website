@@ -46,6 +46,11 @@ body {
     margin: 2%;
 }
 
+h1 {
+    display: inline-block;
+    position: relative;
+}
+
     
     /* Grid Styling */
 .grid-container {
