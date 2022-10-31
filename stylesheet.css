@@ -40,19 +40,14 @@ body {
     margin-bottom: 10%;
 }
 
-.portrait-photo {
+.contact-photo {
     max-width: 46%;
     max-height: 92%;
     margin: 2%;
 }
 
-h1 {
-    display: inline-block;
-    position: relative;
-}
-
     
-    /* Grid Styling */
+    /* Main Grid Styling */
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto auto auto;
@@ -68,4 +63,20 @@ h1 {
     height: auto;
     object-fit: cover;
     overflow: hidden;
+}
+
+    /* Contact Grid Styling */
+.main-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-photo {
+    flex-basis: 40%;
+}
+
+.contact-text {
+    font-size: 2%;
+    padding-left: 2%;
 }
